@@ -1,37 +1,17 @@
 ### Hola mi nombre es Yeison Cano
 
-Desarrollador web full-stack
+#### Desarrollador web full-stack
+![Desarrollador web full-stack](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Soy tecnólogo en analisis y desarrollo de sistemas de informacion, enfocado en el desarrollo de aplicaciones en ambiente WEB. Competente para analizar,diseñar, construir e implementar sistemas de acuerdo con las necesidades del cliente, aplicando buenas practicas de calidad en el proceso del desarrollo
-del software .
-Me caracterizo por ser una persona honesta, disciplinada y responsable, me gusta la investigacion y la curiosidad de conocecer y aprender nuevas cosas y me acoplo fecilmente.
+Soy tecnólogo en analisis y desarrollo de sistemas de informacion, enfocado en el desarrollo de aplicaciones en ambiente WEB. Competente para analizar,diseñar, construir e implementar sistemas de acuerdo con las necesidades del cliente, aplicando buenas practicas de calidad en el proceso del desarrollo del software . Me caracterizo por ser una persona honesta, disciplinada y responsable, me gusta la investigacion y la curiosidad de conocecer y aprender nuevas cosas y me acoplo fecilmente.
 
-Tecnologias:
-
-
-PHP
-MYSQL
-JAVASCRIPT
-CSS3
-HTML5
-GIT Y GITHUB
-
-Donde me pueden encontrar:
+Skills: PHP / MYSQL / JAVASCRIPT / HTML5 / CSS3
 
 
+- 🌱 I’m currently learning SQL SERVER 
+- 📫 How to reach me: canoyeison996@gmail.com 
 
 
-<!--
-**YeisonC/YeisonC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YeisonC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yeison-cano-413070120/)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
